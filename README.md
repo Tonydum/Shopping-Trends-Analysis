@@ -44,4 +44,6 @@ Explore the interactive dashboards.
 ## Contributing
 
 Feel free to fork this project and contribute. Any additions or improvements are welcome.
+
+
 ![image](https://github.com/Tonydum/Shopping-Trends-Analysis/assets/135748491/567c2ff7-300a-45f1-92f5-96a386b328c2)
