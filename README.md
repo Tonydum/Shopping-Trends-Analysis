@@ -23,12 +23,33 @@ Power BI: For data visualization and creating interactive dashboards.
 
 ## Key Findings
 
-Customer Demographics: The dataset reveals a diverse age range among customers, with a noticeable gender distribution.
-Purchasing Trends: Certain categories and seasons exhibit higher sales volume.
-Geographical Insights: Sales concentration varies significantly across regions.
-Spending Patterns: Average spending amounts differ by age and gender.
-Discounts and Promotions: Their impact on purchase value is quantified.
-Product Preferences: Trends in item and color popularity are identified.
+1. Customer Demographics:
+Age Distribution: The average age of customers is 44 years, with a range from 18 to 70 years. This indicates a broad age range of our customer base.
+Gender Distribution: Out of 3,900 customers, 2,652 are male (68%) and 1,248 are female (32%), showing a higher inclination of males in our customer demographics.
+
+2. Purchasing Trends by Category:
+Clothing (1,737 purchases) is the most popular category, followed by Accessories (1,240), Footwear (599), and Outerwear (324). This suggests a strong preference for clothing items among our customers.
+
+3. Seasonal Trends:
+Spring (999 purchases) and Fall (975 purchases) are the peak seasons for shopping, followed closely by Winter (971) and Summer (955). This indicates a fairly even distribution of purchases across seasons.
+
+4. Geographical Trends:
+The top locations for purchases are Montana (96), California (95), and Idaho (93). This highlights key geographical markets for our business.
+
+5. Spending Patterns:
+The average purchase amount is $59.76. There is a slight variation in spending by age, with the highest average spending by customers aged 53 ($67.89) and the lowest by those aged 48 ($52.59).
+Gender-based analysis shows females spend on average $60.25, slightly higher than males at $59.54.
+
+6. Discounts and Promo Codes:
+Interestingly, the average purchase amount without a discount ($60.13) is marginally higher than with a discount ($59.28). This suggests that discounts might not significantly increase spending.
+The use of promo codes does not show a significant difference in spending behavior.
+
+7. Payment Method Preferences:
+Credit Card (696 transactions) and Venmo (653 transactions) are the most preferred payment methods, indicating a trend towards digital and card-based payments.
+
+8. Product Preferences:
+The top items purchased are Blouses, Jewelry, and Pants (171 purchases each).
+The preferred colors for purchases are Olive, Yellow, and Silver, suggesting these colors should be prioritized in inventory.
 
 ## Visualizations
 
