@@ -52,9 +52,11 @@ The top items purchased are Blouses, Jewelry, and Pants (171 purchases each).
 The preferred colors for purchases are Olive, Yellow, and Silver, suggesting these colors should be prioritized in inventory.
 
 Conclusion:
+
 The analysis reveals diverse customer demographics with a wide age range and a male-dominated customer base. Clothing emerges as the most popular category, and there's a balanced distribution of purchases across seasons. Spending patterns indicate moderate spending behavior, with discounts and promo codes having limited impact on increasing purchase values. The preference for digital and card-based payments is evident. Product preferences highlight specific items and colors that are most popular among customers.
 
 Recommendations:
+
 Focus marketing efforts on the most popular categories and top-selling items.
 Tailor promotions and inventory to the preferred colors and age-specific preferences.
 Enhance digital payment options considering their popularity.
