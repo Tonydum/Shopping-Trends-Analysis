@@ -21,7 +21,7 @@ Identify popular products and colors.
 
 Power BI: For data visualization and creating interactive dashboards.
 
-<iframe title="NoRLS" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZDE1NzQxMjktNmEzNy00YTRjLThhNjEtYWMyNzUzYjdmNThiIiwidCI6ImE2ZmYzZTdlLTUyNmUtNDk2OS05NmIzLTY0ZDI5YzYwNTcxNyJ9" frameborder="0" allowFullScreen="true"></iframe>
+[<iframe title="NoRLS" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZDE1NzQxMjktNmEzNy00YTRjLThhNjEtYWMyNzUzYjdmNThiIiwidCI6ImE2ZmYzZTdlLTUyNmUtNDk2OS05NmIzLTY0ZDI5YzYwNTcxNyJ9" frameborder="0" allowFullScreen="true"></iframe>](https://app.powerbi.com/view?r=eyJrIjoiZDE1NzQxMjktNmEzNy00YTRjLThhNjEtYWMyNzUzYjdmNThiIiwidCI6ImE2ZmYzZTdlLTUyNmUtNDk2OS05NmIzLTY0ZDI5YzYwNTcxNyJ9)
 
 ## Key Findings
 
