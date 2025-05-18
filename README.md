@@ -21,7 +21,7 @@ Identify popular products and colors.
 
 Power BI: For data visualization and creating interactive dashboards.
 
-[<iframe title="NoRLS" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZDE1NzQxMjktNmEzNy00YTRjLThhNjEtYWMyNzUzYjdmNThiIiwidCI6ImE2ZmYzZTdlLTUyNmUtNDk2OS05NmIzLTY0ZDI5YzYwNTcxNyJ9" frameborder="0" allowFullScreen="true"></iframe>](https://app.powerbi.com/view?r=eyJrIjoiZDE1NzQxMjktNmEzNy00YTRjLThhNjEtYWMyNzUzYjdmNThiIiwidCI6ImE2ZmYzZTdlLTUyNmUtNDk2OS05NmIzLTY0ZDI5YzYwNTcxNyJ9)
+[[<iframe title="NoRLS" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZDE1NzQxMjktNmEzNy00YTRjLThhNjEtYWMyNzUzYjdmNThiIiwidCI6ImE2ZmYzZTdlLTUyNmUtNDk2OS05NmIzLTY0ZDI5YzYwNTcxNyJ9" frameborder="0" allowFullScreen="true"></iframe>](https://app.powerbi.com/view?r=eyJrIjoiZDE1NzQxMjktNmEzNy00YTRjLThhNjEtYWMyNzUzYjdmNThiIiwidCI6ImE2ZmYzZTdlLTUyNmUtNDk2OS05NmIzLTY0ZDI5YzYwNTcxNyJ9)](https://app.powerbi.com/reportEmbed?reportId=2f91c4cf-ccad-4801-a315-791e1f3f6722&autoAuth=true&ctid=a6ff3e7e-526e-4969-96b3-64d29c605717&actionBarEnabled=true)
 
 ## Key Findings
 
